@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: './', // GitHub Pages 서브디렉토리 배포 시 404 방지를 위한 상대 경로 설정
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
