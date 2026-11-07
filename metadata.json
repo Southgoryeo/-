@@ -1,0 +1,6 @@
+{
+  "name": "Molecular Alchemist - 2D Chemical Action Puzzle",
+  "description": "2D 횡스크롤 화학 액션 퍼즐 게임의 튜토리얼 챕터 프로토타입 및 레벨 디자인 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
